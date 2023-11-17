@@ -58,7 +58,8 @@ I'm a web developer
 
 
 ## 🔗 Links
-[![portfolio](https://github.com/gaurvraj)]
+[![portfolio](https://github.com/gaurvraj)](http://127.0.0.1:5500/index.html)
+[![temp_cont](http://127.0.0.1:5500/temp.html)
 [![linkedin](www.linkedin.com/in/kumar-gaurav-3667951b7)](https://www.linkedin.com/)
 
 
