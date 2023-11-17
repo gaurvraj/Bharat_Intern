@@ -58,7 +58,7 @@ I'm a web developer
 
 
 ## 🔗 Links
-[![portfolio](https://github.com/gaurvraj)](https://katherineoelsner.com/)
+[![portfolio](https://github.com/gaurvraj)]
 [![linkedin](www.linkedin.com/in/kumar-gaurav-3667951b7)](https://www.linkedin.com/)
 
 
